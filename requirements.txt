@@ -1,0 +1,8 @@
+# PC Power Monitor & Electricity Cost Analyzer
+# Minimal production dependencies (installed by default or via apt on Debian/Kali)
+psutil>=5.9.0
+rich>=12.0.0
+
+# Note for Debian/Kali Linux:
+# These packages can be installed natively via apt without pip / venv:
+#   sudo apt install -y python3-psutil python3-rich

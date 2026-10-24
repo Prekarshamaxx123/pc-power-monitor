@@ -1,0 +1,7 @@
+timestamp_iso,elapsed_seconds,total_system_watts,measured_component_watts,estimated_component_watts,data_quality,highest_consumer,cpu_watts,gpu_watts,ram_watts,storage_watts,fans_watts,motherboard_watts,cumulative_wh,cumulative_kwh,cost_lkr
+2026-10-24 21:00:00,0.0,61.40,0.0,52.19,ESTIMATED,CPU (AMD Ryzen 5 5600GT with Radeon Graphics) (16.5W),16.51,14.70,4.08,2.40,2.50,12.00,0.0000,0.000000,0.0000
+2026-10-24 21:00:01,1.0,64.84,0.0,55.11,ESTIMATED,GPU (NVIDIA GeForce GTX 1650) (17.4W),16.75,17.38,4.08,2.40,2.50,12.00,0.0175,0.000018,0.0006
+2026-10-24 21:00:02,2.0,67.40,0.0,57.29,ESTIMATED,GPU (NVIDIA GeForce GTX 1650) (18.4W),17.79,18.45,4.08,2.47,2.50,12.00,0.0359,0.000036,0.0012
+2026-10-24 21:00:03,3.0,64.65,0.0,54.95,ESTIMATED,CPU (AMD Ryzen 5 5600GT with Radeon Graphics) (17.9W),17.93,16.04,4.08,2.40,2.50,12.00,0.0542,0.000054,0.0018
+2026-10-24 21:00:04,4.0,85.12,0.0,72.35,ESTIMATED,GPU (NVIDIA GeForce GTX 1650) (34.2W),18.25,34.20,4.50,3.10,2.80,12.00,0.0750,0.000075,0.0024
+2026-10-24 21:00:05,5.0,92.40,0.0,78.54,ESTIMATED,CPU (AMD Ryzen 5 5600GT with Radeon Graphics) (39.8W),39.80,31.40,4.80,3.24,2.90,12.00,0.0996,0.000100,0.0032

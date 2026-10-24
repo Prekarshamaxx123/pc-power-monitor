@@ -1,0 +1,22 @@
+{
+  "rate": 32.50,
+  "currency": "LKR",
+  "interval": 1.0,
+  "baseline_watts": 40.0,
+  "psu_efficiency": 85.0,
+  "output": "./power_logs",
+  "plain": false,
+  "slab": false,
+  "custom_tdp": null,
+  "wall_meter": null,
+  "fuel_adjustment_pct": 0.0,
+  "vat_pct": 0.0,
+  "notes": {
+    "rate": "Configurable flat tariff in LKR per kWh (e.g. 32.50 LKR/kWh)",
+    "baseline_watts": "Baseline idle system power floor in Watts; never reported as measured",
+    "psu_efficiency": "AC-to-DC conversion efficiency percentage of the power supply unit (50 to 98)",
+    "slab": "Set true to enable Sri Lankan CEB/LECO tiered progressive domestic slabs for monthly estimates",
+    "wall_meter": "Optional HTTP URL or local JSON file path for external smart plug (e.g. Shelly or Tasmota)",
+    "custom_tdp": "Optional CPU Thermal Design Power override in Watts (e.g. 65.0)"
+  }
+}

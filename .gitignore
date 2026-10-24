@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local session logs & databases (keep example_report.csv)
+power_logs/*.csv
+power_logs/*.db
+power_logs/*.db-wal
+power_logs/*.db-shm
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE & Editor caches
+.vscode/
+.idea/
+*.swp
+*~
